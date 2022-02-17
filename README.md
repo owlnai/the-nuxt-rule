@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# The Nuxt Rule
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
